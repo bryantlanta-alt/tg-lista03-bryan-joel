@@ -1,6 +1,7 @@
 # Projeto — <título> (modelo)
 
-**Disciplina:** <Teoria dos Grafos>  ·  **Aluno(s):** Bryan Marques Cruz e Joel Carlos Assunção Padilha
+**Disciplina:** Teoria dos Grafos
+**Aluno(s):** Bryan Marques Cruz e Joel Carlos Assunção Padilha
 
 ## Sobre
 Descreva em 2–3 linhas o que é o projeto e o que ele resolve.

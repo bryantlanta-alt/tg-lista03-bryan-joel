@@ -1,7 +1,7 @@
 from datetime import datetime
 
 # Identificação
-print("Aluno: Joel Carlos Assunção Padilha e Bryan Atlanta Cruz")
+print("Aluno: Joel Carlos Assunção Padilha e Bryan Marques Cruz")
 print("Execução:", datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
 print("-" * 35)
 

@@ -1,21 +1,42 @@
 # Diário de Bordo — Uso de IA
 Disciplina: Teoria dos Grafos — Lista 3 (Caminhos mínimos)
-Dupla: Nome Completo 1 + Nome Completo 2
-Chat utilizado: (ChatGPT / Claude / Gemini / Copilot)
+Dupla: Bryan Marques Cruz + Joel Carlos Padilha Assunção
+Chat utilizado: Gemini
 
-## Entrada — <data e hora>
-- Questão(ões):
-- Onde travamos / objetivo da conversa:
-- O que perguntamos ao tutor:
-- O que o tutor respondeu ou perguntou (resumo, ou link do trecho):
-- O que fizemos com isso (aceitamos? questionamos? corrigimos?):
-- A IA tentou dar a resposta pronta ou errou? Como reagimos?
+## Entrada — <25 de agosto de 2026, 13:34>
+- Questão(ões): Algoritmo de Dijkstra (conceitos teóricos, preenchimento da tabela e código em C).
+
+- Onde travamos / objetivo da conversa: Queríamos entender como o algoritmo funciona passo a passo.
+Tivemos uma pequena dúvida inicial sobre a ordem correta antes de começar a calcular as rotas,
+e um pequeno erro ao somar as distâncias na segunda repetição, mas ajustamos rápido.
+
+- O que perguntamos ao tutor: Pedimos ajuda para iniciar o estudo do algoritmo e enviamos o texto
+completo da atividade do professor (um grafo para ir de "a" até "f").
+
+- O que o tutor respondeu ou perguntou (resumo, ou link do trecho): O tutor dividiu o problema em
+teoria, tabela e código. Ele fez perguntas sobre o valor inicial dos vértices (o uso do infinito),
+a restrição de números negativos e a matemática para atualizar as distâncias. Depois, orientou a
+criação da tabela, linha por linha.
+
+- O que fizemos com isso (aceitamos? questionamos? corrigimos?): Respondemos às perguntas, entendemos
+a lógica de soma e preenchemos a tabela juntos. Quando erramos um cálculo, refizemos a conta com base
+na dica da IA.
+
+- A IA tentou dar a resposta pronta ou errou? Como reagimos?: A IA seguiu as regras e não deu a tabela
+ou o código pronto. Quando erramos a conta, ela não nos deu o valor final, mas fez uma nova pergunta
+para que nós mesmos achássemos o número correto.
+
 - O que aprendemos:
 
 (repitam uma Entrada por sessão de trabalho)
 
 ## Reflexão final
-- Onde a IA mais ajudou:
-- Onde tentou entregar a resposta pronta:
-- Onde errou e como verificamos:
+- Onde a IA mais ajudou: Ajudou a organizar o pensamento antes de ir para o papel, fazendo a gente
+descobrir a fórmula sozinhos e focando em um passo do algoritmo de cada vez.
+
+- Onde tentou entregar a resposta pronta: Em nenhum momento; apenas guiou a conversa por meio de perguntas.
+
+- Onde errou e como verificamos: A IA manteve os cálculos corretos. Nós validamos cada etapa refazendo
+as contas e conferindo quais pontos ainda estavam abertos.
+
 - O que faríamos diferente na próxima:

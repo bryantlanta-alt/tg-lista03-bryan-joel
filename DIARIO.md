@@ -1,5 +1,6 @@
 # Diário de Bordo — Uso de IA
 Disciplina: Teoria dos Grafos — Lista 3 (Caminhos mínimos)
+
 Dupla: Bryan Marques Cruz + Joel Carlos Assunção Padilha
 Chat utilizado: Gemini
 

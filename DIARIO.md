@@ -38,5 +38,3 @@ descobrir a fórmula sozinhos e focando em um passo do algoritmo de cada vez.
 
 - Onde errou e como verificamos: A IA manteve os cálculos corretos. Nós validamos cada etapa refazendo
 as contas e conferindo quais pontos ainda estavam abertos.
-
-- O que faríamos diferente na próxima: 
